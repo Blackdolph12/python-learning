@@ -1,4 +1,6 @@
-# My first Python lesson - fixed common mistakes
+# My Python learning journey - Blackdolph12 from Durban
+
+# Lesson 1: First program
 print("Hello, World!")
 
 # Lesson 2: Common mistakes fixed
@@ -7,3 +9,7 @@ print("Age:", age)
 
 name = "Moise"
 print("My name is", name)
+
+# Lesson 3: Challenge
+city = "Durban"
+print("I live in", city)
